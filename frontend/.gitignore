@@ -11,8 +11,7 @@
 # production
 /build
 /.env
-
-../backend/.env
+./backend/.env
 
 # misc
 .DS_Store
